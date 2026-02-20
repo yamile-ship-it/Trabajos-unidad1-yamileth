@@ -1,0 +1,9 @@
+echo "# Trabajos-unidad1-yamileth" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/yamile-ship-it/Trabajos-unidad1-yamileth.git
+git push -u origin main
+git config --global user.email "yt9937202@gmail.com"
+git config --global user.name "yamile-ship-it"
